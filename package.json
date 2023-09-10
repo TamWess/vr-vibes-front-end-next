@@ -1,0 +1,22 @@
+{
+  "name": "vr-vibes-front-end-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "rallax.js": "^2.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sas": "^3.0.4",
+    "sass": "^1.66.1"
+  }
+}
